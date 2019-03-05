@@ -7,7 +7,12 @@
 }
 
 body {
-  font-family: "Varela Round", sans-serif;
+  /* font-family: "Varela Round", sans-serif; */
+  /* font-family: "Crimson Text", serif; */
+  font-family: "B612", sans-serif;
+  /* font-family: "Karla", sans-serif; */
+  /* font-family: "Questrial", sans-serif; */
+  /* font-family: "Cantarell", sans-serif; */
   line-height: 1.6;
   color: #3a3a3a;
 }
